@@ -1,4 +1,4 @@
-# SecretNumberGame
+# Secret Number Game
 ## Sobre o Jogo
 O Secret Number Game é um jogo simples e divertido onde o jogador deve tentar descobrir um número gerado aleatoriamente pelo sistema. O jogo fornece dicas baseadas nas tentativas do jogador, indicando se o número secreto é maior ou menor do que o palpite atual.
 
