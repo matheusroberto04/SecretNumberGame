@@ -1,8 +1,6 @@
 # SecretNumberGame
-# Jogo de Adivinhação do Número Secreto
-
 ## Sobre o Jogo
-O Jogo de Adivinhação do Número Secreto é um jogo simples e divertido onde o jogador deve tentar descobrir um número gerado aleatoriamente pelo sistema. O jogo fornece dicas baseadas nas tentativas do jogador, indicando se o número secreto é maior ou menor do que o palpite atual.
+O Secret Number Game é um jogo simples e divertido onde o jogador deve tentar descobrir um número gerado aleatoriamente pelo sistema. O jogo fornece dicas baseadas nas tentativas do jogador, indicando se o número secreto é maior ou menor do que o palpite atual.
 
 ## Como Jogar
 1. Ao iniciar o jogo, um número secreto é gerado automaticamente dentro de um intervalo predefinido.
